@@ -19,7 +19,7 @@ This is an integration of Twitter login to a web application implemented in java
 
 - First created an application on twitter which is needed to authorise user using twitter to our implemented web app. You can create twitter app at:
   href="https://apps.twitter.com/app/new"
-- When your twitter app is created you can see his created app in My apps: href="https://apps.twitter.com/"
+- When your twitter app is created you can see your created app in My apps: href="https://apps.twitter.com/"
 - Then entering into your twitter application, you can see "keys and access token" link, where lies your "CONSUMER KEY" and "CONSUMER   SECRET".
 - Then, I have created a "Twitter" class under Controllers package : app/controllers/Twitter.java
 - You have to enter your Twitter application's consumer key and secret into Twitter controller class.
